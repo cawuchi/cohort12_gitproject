@@ -1,1 +1,4 @@
-Testing this Git File
+List of Fruits:
+Apple
+Guava
+Banana
